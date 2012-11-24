@@ -1,0 +1,7 @@
+.nobullet {
+	list-style-type: none;
+}
+
+.form-table th {
+	font-weight: bold;
+}
